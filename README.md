@@ -16,6 +16,4 @@ Screenshots:
 
 ![2nd view](https://github.com/user-attachments/assets/c1f9c3b2-9fdc-4cfb-a4b0-d1bc777c2ad4)
 
-![3rd view](https://github.com/user-attachments/assets/c08fdaf6-5ee3-4979-91da-c3f48928ae6b)
-
 ![Spinner usage](https://github.com/user-attachments/assets/7ab16f47-265a-454d-8fff-58060b5c89b4)
