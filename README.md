@@ -1,6 +1,7 @@
 *Color Selector App*
 
 #Overview
+
 The Color Selector App is a simple Android application designed to allow users to choose and set background colors. 
 This app demonstrates the use of various Android UI components such as RadioGroup, RadioButton, Spinner, and Button. 
 It also showcases basic navigation between different activities.
